@@ -122,4 +122,15 @@ body {
 
 .logos img:hover {
   opacity: 1;
+<<<<<<< HEAD
+}
+
+
+
+
+.logos image {
+    width: 150px;
+    opacity: 0.4;
+=======
+>>>>>>> main
 }
