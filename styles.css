@@ -127,6 +127,7 @@ body {
 
 
 
-
-hello .worked_with
-newi    
+.logos image {
+    width: 150px;
+    opacity: 0.4;
+}
